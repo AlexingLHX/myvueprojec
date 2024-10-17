@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproject01"]=self["webpackChunkproject01"]||[]).push([[594],{9026:function(t,u,n){n.r(u),n.d(u,{default:function(){return a}});var e=function(){var t=this;t._self._c;return t._m(0)},r=[function(){var t=this,u=t._self._c;return u("div",{staticClass:"about"},[u("h1",[t._v("这是一个about页面")]),u("h2",[t._v("随便写写")])])}],s=n(1656),c={},l=(0,s.A)(c,e,r,!1,null,null,null),a=l.exports}}]);
+//# sourceMappingURL=about.af7d3298.js.map
